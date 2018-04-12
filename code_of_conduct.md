@@ -45,7 +45,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 5. Weapons Policy
 
-Except in emergency situations, no unconcealed weapons will be allowed at Nashville PHP events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen brandishing or using of one of these items will be asked to conceal said weaponry or in failing that be asked to leave immediately and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws on this matter, including the carrying of required permits, as well as the requirements of the host venue.
+No unconcealed or unlicensed weapons will be allowed at Nashville PHP events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws as well as venue requirements on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
